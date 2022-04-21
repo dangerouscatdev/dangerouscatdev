@@ -1,9 +1,9 @@
 <h1>Hello! I’m Muñeca!✨ 👋 ✨ </h1>
 <p>(Moon-<i>yeh</i>-ka) aka Moon aka @dangerouscatdev</p>
 <ul>
-  <li><b>Currently Learning:</b> Javascript</li>
-  <li><b>Interested In:</b> Design, Development, Illustration</li>
-  <li><b>Open To:</b> Contract, Part-time Roles</li>
+  <li>Currently Learning: <b>Javascript</b></li>
+  <li>Interested In: <b> Illustration, Design, Development</b></li>
+  <li>Open To: <b>Contract, Part-time Roles</b></li>
 </ul>
 
 <!---
