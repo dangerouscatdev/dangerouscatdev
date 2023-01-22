@@ -2,7 +2,7 @@
 <p>(Moon-<i>yeh</i>-ka) aka Moon aka @dangerouscatdev</p>
 <ul>
   <li>Currently Learning: <b>Wordpress Development, Video Editing, and Javascript</b></li>
-  <li>Interested In: <b> Illustration, Design, Development</b></li>
+  <li>Interested In: <b> Design, Development, Digital Art</b></li>
   <li>Open To: <b>Contract, Part-time Roles</b></li>
 </ul>
 
